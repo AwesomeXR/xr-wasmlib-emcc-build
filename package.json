@@ -1,0 +1,13 @@
+{
+  "name": "xr-wasmlib-emcc-build",
+  "version": "1.0.1",
+  "files": [
+    "lib"
+  ],
+  "devDependencies": {
+    "release-it": "^16.1.5"
+  },
+  "scripts": { 
+    "release": "release-it"
+  }
+}
